@@ -2,7 +2,7 @@
 
 namespace SRP
 {
-    public  class ShapePrinter
+    public  class ShapeAreaPrinter
     {
         public void PrintArea(IShapeAreaCalculator shape)
         {

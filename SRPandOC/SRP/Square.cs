@@ -2,7 +2,7 @@
 
 namespace SRP
 {
-    public class Square: IShapeAreaCalculator
+    public class Square: IShapeAreaCalculator, IShapeLongestDimension
     {
         public Square(float lenght)
         {
@@ -14,6 +14,11 @@ namespace SRP
         public float GetArea()
         {
             return Length * Length;
+        }
+
+        public float GetLongestDimension()
+        {
+            return Length;
         }
     }
 }

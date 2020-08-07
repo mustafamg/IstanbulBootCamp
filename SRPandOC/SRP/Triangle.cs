@@ -2,7 +2,7 @@
 
 namespace SRP
 {
-    public class Triangle: IShapeAreaCalculator
+    public class Triangle: IShapeAreaCalculator, IShapeLongestDimension
     {
         public Triangle(float baseLength, float height)
         {
@@ -16,6 +16,11 @@ namespace SRP
         public float GetArea()
         {
             return 0.5f * Height * BaseLength;
+        }
+
+        public float GetLongestDimension()
+        {
+            return BaseLength > Height ? BaseLength : Height;
         }
     }
 }

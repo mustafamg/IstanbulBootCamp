@@ -2,7 +2,7 @@
 
 namespace SRP
 {
-    public class PlaplaShape : IShapeAreaCalculator
+    public class PlaplaShape : IShapeAreaCalculator, IShapeLongestDimension
     {
         public PlaplaShape(float radius)
         {
@@ -14,6 +14,11 @@ namespace SRP
         public float GetArea()
         {
             return Radius * Radius/2-5;
+        }
+
+        public float GetLongestDimension()
+        {
+            return Radius;
         }
     }
 }
