@@ -19,6 +19,11 @@
             var tr = new Triangle(5, 4);
 
             sp.PrintArea(tr);
+
+
+            var plapla = new PlaplaShape(5);
+            sp.PrintArea(plapla);
+
         }
     }
 }

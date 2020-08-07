@@ -11,3 +11,16 @@ C:\Users\musta\source\repos\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.csproj.CoreCompi
 C:\Users\musta\source\repos\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.dll
 C:\Users\musta\source\repos\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.pdb
 C:\Users\musta\source\repos\SRP\SRP\obj\Debug\netcoreapp3.1\SRP.genruntimeconfig.cache
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\bin\Debug\netcoreapp3.1\SRP.exe
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\bin\Debug\netcoreapp3.1\SRP.deps.json
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.json
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.dev.json
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\bin\Debug\netcoreapp3.1\SRP.dll
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\bin\Debug\netcoreapp3.1\SRP.pdb
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\obj\Debug\netcoreapp3.1\SRP.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\obj\Debug\netcoreapp3.1\SRP.AssemblyInfo.cs
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\obj\Debug\netcoreapp3.1\SRP.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\obj\Debug\netcoreapp3.1\SRP.dll
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\obj\Debug\netcoreapp3.1\SRP.pdb
+C:\Users\musta\source\repos\SRP\SRPandOC\SRP\obj\Debug\netcoreapp3.1\SRP.genruntimeconfig.cache

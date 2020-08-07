@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\source\\repos\\SRP\\SRP\\SRP.csproj": {}
+    "C:\\Users\\musta\\source\\repos\\SRP\\SRPandOC\\SRP\\SRP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\source\\repos\\SRP\\SRP\\SRP.csproj": {
+    "C:\\Users\\musta\\source\\repos\\SRP\\SRPandOC\\SRP\\SRP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\source\\repos\\SRP\\SRP\\SRP.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\source\\repos\\SRP\\SRPandOC\\SRP\\SRP.csproj",
         "projectName": "SRP",
-        "projectPath": "C:\\Users\\musta\\source\\repos\\SRP\\SRP\\SRP.csproj",
+        "projectPath": "C:\\Users\\musta\\source\\repos\\SRP\\SRPandOC\\SRP\\SRP.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\source\\repos\\SRP\\SRP\\obj\\",
+        "outputPath": "C:\\Users\\musta\\source\\repos\\SRP\\SRPandOC\\SRP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
